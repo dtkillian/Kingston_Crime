@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590951609055.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7E23C795",
+    "lastKnownWriteTime" : 1590952061,
+    "last_content_update" : 1590952061488,
+    "path" : "~/GitHub/Crime-Analysis/Rproject/Crime-Analysis/Code from Website.R",
+    "project_path" : "Code from Website.R",
+    "properties" : {
+        "cursorPosition" : "32,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

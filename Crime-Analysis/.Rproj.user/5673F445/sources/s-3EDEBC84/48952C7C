@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590855489066.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "48952C7C",
+    "lastKnownWriteTime" : 1590715146,
+    "last_content_update" : 1590715146,
+    "path" : "~/GitHub/Crime-Analysis/Rproject/Crime-Analysis/Exploratory Data Analysis.R",
+    "project_path" : "Exploratory Data Analysis.R",
+    "properties" : {
+        "cursorPosition" : "26,2",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
